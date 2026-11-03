@@ -8,8 +8,8 @@ Mechatronics Engineering | Robotics | Autonomous Systems
 
 I'm a final-year B.Tech Mechatronics Engineering student at Rajarambapu Institute of Technology.
 
-- 🤖 Learning ROS 2 Jazzy and robotic system development
-- 🌍 Exploring Gazebo, SLAM, and Nav2
+- 🤖 Learning and building robotic systems using ROS 2 Jazzy
+- 🌍 Exploring Gazebo simulation, SLAM, and Nav2
 - 🛠️ Interested in robotics, autonomous systems, and industrial automation
 - 🎯 Focused on developing practical robotics engineering skills
 
@@ -58,9 +58,12 @@ Creating robot descriptions using URDF and Xacro.
 
 🔗 Connect With Me
 
-- "LinkedIn" (linkedin.com/in/tusharjadhav3773)
-- "Email" (Tusharj3773@gmail.com)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/tusharjadhav3773/)
+
+""Email" (https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:tusharj773@gmail.com)
 
 ---
 
-"Whatever it takes."
+<p align="center">
+  <i>"Whatever it takes."</i>
+</p>
